@@ -1,0 +1,3 @@
+dotnet ef migrations add name! -c ItemDatabaseContext -p ItemDatabase -v
+dotnet ef database update -c ItemDatabaseContext -p ItemDatabase
+    
