@@ -8,8 +8,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ItemDatabase.Migrations
 {
     [DbContext(typeof(ItemDatabaseContext))]
-    [Migration("20201209062915_Data Source=items.db")]
-    partial class DataSourceitemsdb
+    [Migration("20201216075931_new")]
+    partial class @new
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -25,6 +25,9 @@ namespace ItemDatabase.Migrations
 
                     b.Property<int>("AddedProjectiles")
                         .HasColumnType("INTEGER");
+
+                    b.Property<float>("AttackDamage")
+                        .HasColumnType("REAL");
 
                     b.Property<float>("AttackSpeed")
                         .HasColumnType("REAL");
@@ -46,6 +49,10 @@ namespace ItemDatabase.Migrations
 
                     b.Property<string>("SpritePath")
                         .HasColumnType("TEXT");
+
+                    b.Property<bool>("Unlocked")
+                        .HasColumnName("unlocked")
+                        .HasColumnType("bool");
 
                     b.HasKey("Id");
 

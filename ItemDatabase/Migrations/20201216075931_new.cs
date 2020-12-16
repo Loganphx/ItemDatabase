@@ -2,7 +2,7 @@
 
 namespace ItemDatabase.Migrations
 {
-    public partial class DataSourceitemsdb : Migration
+    public partial class @new : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -15,11 +15,13 @@ namespace ItemDatabase.Migrations
                     ItemName = table.Column<string>(nullable: true),
                     ItemDescription = table.Column<string>(nullable: true),
                     SpritePath = table.Column<string>(nullable: true),
+                    AttackDamage = table.Column<float>(nullable: false),
                     AddedProjectiles = table.Column<int>(nullable: false),
                     AttackSpeed = table.Column<float>(nullable: false),
                     ItemHealing = table.Column<float>(nullable: false),
                     MoveSpeed = table.Column<float>(nullable: false),
-                    MaxLife = table.Column<int>(nullable: false)
+                    MaxLife = table.Column<int>(nullable: false),
+                    unlocked = table.Column<bool>(type: "bool", nullable: false)
                 },
                 constraints: table =>
                 {

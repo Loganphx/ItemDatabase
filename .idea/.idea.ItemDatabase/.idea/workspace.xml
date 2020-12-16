@@ -4,12 +4,51 @@
     <projectFile>ItemDatabase/ItemDatabase.csproj</projectFile>
     <projectFile>ConsoleApp1/ConsoleApp1.csproj</projectFile>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="518ccc91-c4b6-40e2-835a-da8c5705d157" name="Default Changelist" comment="" />
+    <list default="true" id="518ccc91-c4b6-40e2-835a-da8c5705d157" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ItemDatabase/bin/Debug/netcoreapp3.1/items.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ItemDatabase/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ItemDatabase/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ItemDatabase/.idea/dataSources/10e0cddb-2528-4f71-8a6a-b3be3f835e70.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ItemDatabase/.idea/dataSources/10e0cddb-2528-4f71-8a6a-b3be3f835e70.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ItemDatabase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ItemDatabase/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/ItemDatabase.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/ItemDatabase.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/ItemDatabaseContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/ItemDatabaseContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/Migrations/20201209062915_Data Source=items.db.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/Migrations/20201209062915_Data Source=items.db.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/Migrations/20201216075931_new.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/Migrations/20201209064145_update0.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/Migrations/20201216075931_new.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/Migrations/20201209064145_update0.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/Migrations/ItemDatabaseContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/Migrations/ItemDatabaseContextModelSnapshot.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/bin/Debug/netcoreapp3.1/ItemDatabase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/bin/Debug/netcoreapp3.1/ItemDatabase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/bin/Debug/netcoreapp3.1/ItemDatabase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/bin/Debug/netcoreapp3.1/ItemDatabase.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/items.db" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/items.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/obj/Debug/netcoreapp3.1/ItemDatabase.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/obj/Debug/netcoreapp3.1/ItemDatabase.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/obj/Debug/netcoreapp3.1/ItemDatabase.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/obj/Debug/netcoreapp3.1/ItemDatabase.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ItemDatabase/obj/Debug/netcoreapp3.1/ItemDatabase.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ItemDatabase/obj/Debug/netcoreapp3.1/ItemDatabase.pdb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$USER_HOME$/OneDrive/Documents/Unity/2D-RPG/Assets/RangeAiController.cs" root0="SKIP_HIGHLIGHTING" />
@@ -20,17 +59,21 @@
         <option value="$PROJECT_DIR$/ItemDatabase/Program.cs" />
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
         <option value="$PROJECT_DIR$/ItemDatabase/Commands.txt" />
-        <option value="$PROJECT_DIR$/ItemDatabase/ItemDatabaseContext.cs" />
         <option value="$USER_HOME$/OneDrive/Documents/Unity/2D-RPG/Assets/RangeAiController.cs" />
+        <option value="$PROJECT_DIR$/ItemDatabase/ItemDatabaseContext.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1lPItc7m2kipPvevXANXgHUFpKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -92,6 +135,8 @@
       <workItem from="1607492524513" duration="845000" />
       <workItem from="1607493619065" duration="4059000" />
       <workItem from="1607568734505" duration="3077000" />
+      <workItem from="1607735733266" duration="322000" />
+      <workItem from="1608102082845" duration="6270000" />
     </task>
     <servers />
   </component>
@@ -100,7 +145,19 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -112,6 +169,22 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="489" y="182" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1463.783@0.0.1463.783" timestamp="1607494429126" />
+    <state width="1405" height="190" key="GridCell.Tab.0.bottom" timestamp="1608107757067">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1405" height="190" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1608107757067" />
+    <state width="1405" height="190" key="GridCell.Tab.0.center" timestamp="1608107757066">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1405" height="190" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1608107757066" />
+    <state width="1405" height="190" key="GridCell.Tab.0.left" timestamp="1608107757066">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1405" height="190" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1608107757066" />
+    <state width="1405" height="190" key="GridCell.Tab.0.right" timestamp="1608107757066">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1405" height="190" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1608107757066" />
     <state width="189" height="539" key="HiddenNamespacesPopup" timestamp="1607494531085">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
@@ -120,9 +193,9 @@
       <screen x="0" y="0" width="1463" height="783" />
     </state>
     <state x="324" y="124" key="Rider.ProjectTemplateDialog.Size/0.0.1463.783@0.0.1463.783" timestamp="1607494265311" />
-    <state x="610" y="272" width="311" height="263" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1607495337981">
+    <state x="610" y="272" width="311" height="263" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1608105342465">
       <screen x="0" y="0" width="1463" height="783" />
     </state>
-    <state x="610" y="272" width="311" height="263" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1463.783@0.0.1463.783" timestamp="1607495337981" />
+    <state x="610" y="272" width="311" height="263" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1463.783@0.0.1463.783" timestamp="1608105342465" />
   </component>
 </project>

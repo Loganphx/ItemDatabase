@@ -48,6 +48,10 @@ namespace ItemDatabase.Migrations
                     b.Property<string>("SpritePath")
                         .HasColumnType("TEXT");
 
+                    b.Property<bool>("Unlocked")
+                        .HasColumnName("unlocked")
+                        .HasColumnType("bool");
+
                     b.HasKey("Id");
 
                     b.ToTable("ItemTable");
